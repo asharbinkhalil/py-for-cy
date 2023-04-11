@@ -1,1 +1,1 @@
-print("I am a malicious program.")
+print("I am a malicious program")
